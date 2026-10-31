@@ -1,0 +1,62 @@
+{
+  "S-2401": {
+    "name": "Mira Shah",
+    "programme": "PGDM — Business Analytics",
+    "semester": 2,
+    "cgpa": 8.4,
+    "advisor": "Dr. Neha Iyer",
+    "fees": {
+      "total_fee": 280000,
+      "paid_amount": 230000,
+      "pending_balance": 50000,
+      "due_date": "2026-11-20",
+      "adjustments": []
+    },
+    "scholarship": {
+      "scheme": "Merit Progress Grant",
+      "status": "Under review",
+      "waiver_percent": 10,
+      "renewal_criteria": "Maintain the published academic performance criteria."
+    }
+  },
+  "S-2402": {
+    "name": "Dev Malhotra",
+    "programme": "PGDM — Digital Strategy",
+    "semester": 2,
+    "cgpa": 7.9,
+    "advisor": "Prof. Arjun Sen",
+    "fees": {
+      "total_fee": 280000,
+      "paid_amount": 280000,
+      "pending_balance": 0,
+      "due_date": "2026-11-20",
+      "adjustments": []
+    },
+    "scholarship": {
+      "scheme": "Not enrolled",
+      "status": "Not applicable",
+      "waiver_percent": 0,
+      "renewal_criteria": "Contact the financial aid office for available schemes."
+    }
+  },
+  "S-2403": {
+    "name": "Tara Nair",
+    "programme": "PGDM — Finance",
+    "semester": 1,
+    "cgpa": 8.1,
+    "advisor": "Dr. Farah Khan",
+    "fees": {
+      "total_fee": 280000,
+      "paid_amount": 140000,
+      "pending_balance": 140000,
+      "due_date": "2026-11-20",
+      "adjustments": []
+    },
+    "scholarship": {
+      "scheme": "Need-based Support",
+      "status": "Active",
+      "waiver_percent": 15,
+      "renewal_criteria": "Submit updated supporting documents each academic year."
+    }
+  }
+}

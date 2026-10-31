@@ -1,0 +1,26 @@
+[
+  {
+    "request_id": "APR-85A7A073",
+    "student_id": "S-2401",
+    "amount": 5000.0,
+    "reason": "Demonstration request",
+    "status": "REJECTED",
+    "balance_at_request": 50000.0,
+    "requested_at": "2026-10-30T11:56:17+00:00",
+    "reviewer_id": "REVIEWER-DEMO",
+    "decision_at": "2026-10-30T11:56:17+00:00",
+    "result": "rejected_no_change"
+  },
+  {
+    "request_id": "APR-AD598D89",
+    "student_id": "S-2401",
+    "amount": 5000.0,
+    "reason": "Approved demonstration request",
+    "status": "APPROVED",
+    "balance_at_request": 50000.0,
+    "requested_at": "2026-10-30T11:56:17+00:00",
+    "reviewer_id": "REVIEWER-DEMO",
+    "decision_at": "2026-10-30T11:56:17+00:00",
+    "result": "adjustment_applied"
+  }
+]
